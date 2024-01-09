@@ -19,10 +19,11 @@ I'm Syed Muhammad Irtaza, a seasoned Full Stack Developer with a passion for bui
 
 ## 🌐 Highlighted Projects
 
-- **PartOwn:** [PartOwn](https://www.partown.ng/en/landingpage){:target="_blank"} - Built a resilient peer-to-peer trading module with MongoDB transactions, reducing failure risk by 5%. Incorporated dashboard analytics for investment trends.
-- **Your Baking Connection:** [Your Baking Connection](https://yourbakingconnection.com/){:target="_blank"} - Developed a backend for an e-commerce site with personalized product feeds and optimized search using MongoDB Atlas, cutting query time by 3 seconds.
-- **BizB:** [BizB](https://bizb.store/){:target="_blank"} - A marketplace for sustainable faishon.
-- **Land Of Sneakers:** [Land Of Sneakers](https://store.landofsneakers.com/en){:target="_blank"} - Insert brief description here.
+- **PartOwn:** <a href="https://www.partown.ng/en/landingpage" target="_blank">PartOwn</a> - Built a resilient peer-to-peer trading module with MongoDB transactions, reducing failure risk by 5%. Incorporated dashboard analytics for investment trends.
+- **Your Baking Connection:** <a href="https://yourbakingconnection.com/" target="_blank">Your Baking Connection</a> - Developed a backend for an e-commerce site with personalized product feeds and optimized search using MongoDB Atlas, cutting query time by 3 seconds.
+- **BizB:** <a href="https://bizb.store/" target="_blank">BizB</a> - A marketplace for sustainable faishon..
+- **Land Of Sneakers:** <a href="https://store.landofsneakers.com/en" target="_blank">Land Of Sneakers</a> - Insert brief description here.
+
 
 
 
@@ -35,8 +36,7 @@ I thrive on challenges and embrace learning opportunities to stay abreast of the
 
 Feel free to reach out for collaborations, discussions, or exciting project opportunities:
 
-- LinkedIn: [Irtaza Syed](https://www.linkedin.com/in/irtaza-syed/)
+- LinkedIn: [Irtaza Syed]([https://www.linkedin.com/in/irtaza-syed/](https://www.linkedin.com/in/syed-muhammad-irtaza-211156181/))
 - Email: irtaza780@gmail.com
-- GitHub: [irtaza780](https://github.com/irtaza780)
 
 Looking forward to exploring new ventures and contributing to innovative projects!

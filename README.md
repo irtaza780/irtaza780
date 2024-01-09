@@ -36,7 +36,7 @@ I thrive on challenges and embrace learning opportunities to stay abreast of the
 
 Feel free to reach out for collaborations, discussions, or exciting project opportunities:
 
-- LinkedIn: [Irtaza Syed]([https://www.linkedin.com/in/irtaza-syed/](https://www.linkedin.com/in/syed-muhammad-irtaza-211156181/))
+- LinkedIn: [Syed Muhammad Irtaza](https://www.linkedin.com/in/syed-muhammad-irtaza-211156181/)
 - Email: irtaza780@gmail.com
 
 Looking forward to exploring new ventures and contributing to innovative projects!

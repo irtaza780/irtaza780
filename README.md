@@ -19,10 +19,11 @@ I'm Syed Muhammad Irtaza, a seasoned Full Stack Developer with a passion for bui
 
 ## 🌐 Highlighted Projects
 
-- **PartOwn:** <a href="https://www.partown.ng/en/landingpage" target="_blank">PartOwn</a> - Built a resilient peer-to-peer trading module with MongoDB transactions, reducing failure risk by 5%. Incorporated dashboard analytics for investment trends.
-- **Your Baking Connection:** <a href="https://yourbakingconnection.com/" target="_blank">Your Baking Connection</a> - Developed a backend for an e-commerce site with personalized product feeds and optimized search using MongoDB Atlas, cutting query time by 3 seconds.
-- **Bizb:** <a href="http://bizb.store/" target="_blank">Bizb</a> - A marketplace for sustainable faishon.
-- **Land Of Sneakers:** <a href="https://store.landofsneakers.com/en" target="_blank">Land Of Sneakers</a> 
+- **PartOwn:** [PartOwn](https://www.partown.ng/en/landingpage){:target="_blank"} - Built a resilient peer-to-peer trading module with MongoDB transactions, reducing failure risk by 5%. Incorporated dashboard analytics for investment trends.
+- **Your Baking Connection:** [Your Baking Connection](https://yourbakingconnection.com/){:target="_blank"} - Developed a backend for an e-commerce site with personalized product feeds and optimized search using MongoDB Atlas, cutting query time by 3 seconds.
+- **BizB:** [BizB](https://bizb.store/){:target="_blank"} - A marketplace for sustainable faishon.
+- **Land Of Sneakers:** [Land Of Sneakers](https://store.landofsneakers.com/en){:target="_blank"} - Insert brief description here.
+
 
 
 

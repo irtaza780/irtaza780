@@ -23,6 +23,7 @@ I'm Syed Muhammad Irtaza, a seasoned Full Stack Developer with a passion for bui
 - **Your Baking Connection:** <a href="https://yourbakingconnection.com/" target="_blank">Your Baking Connection</a> - Developed a backend for an e-commerce site with personalized product feeds and optimized search using MongoDB Atlas, cutting query time by 3 seconds.
 - **BizB:** <a href="https://bizb.store/" target="_blank">BizB</a> - A marketplace for sustainable faishon..
 - **Land Of Sneakers:** <a href="https://store.landofsneakers.com/en" target="_blank">Land Of Sneakers</a>
+- **Qararaq:** <a href="https://qraraq-frontend-1.vercel.app/" target="_blank">Qararaq<a/>
 
 
 

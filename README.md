@@ -5,11 +5,11 @@ I'm Syed Muhammad Irtaza, a seasoned Full Stack Developer with a passion for bui
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript (ES6), Python, C++, Java
-- **Frontend:** React.js, Next.js, Material UI, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
+- **Frontend:** React.js, Next.js,Tailwind CSS, Material Tailwind, Material UI, Bootstrap
+- **Backend:** Nest.js, Node.js, Express.js
+- **Databases:** PostgreSQL, MySQL, MongoDB
 - **Cloud & DevOps:** AWS (EC2, S3), Docker, Git, GitLab CI/CD
-- **Other Skills:** GraphQL, Elasticsearch, Google Maps Integration
+- **Other Skills:** GraphQL, Elasticsearch, Google Maps Integration, Monorepos
 
 ## 🚀 Notable Achievements
 
